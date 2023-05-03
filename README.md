@@ -1,0 +1,1 @@
+# test_snowflake_somak
